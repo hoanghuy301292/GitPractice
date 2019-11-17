@@ -1,1 +1,3 @@
 pull file nay ve local repo, sua file
+sua file tren ubuntu
+
