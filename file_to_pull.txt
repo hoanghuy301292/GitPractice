@@ -1,3 +1,0 @@
-pull file nay ve local repo, sua file
-sua file tren ubuntu 1 2 3 
-
